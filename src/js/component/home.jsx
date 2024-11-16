@@ -6,24 +6,24 @@ import Footer from "./footer.jsx";
 
 const cards = [
 	{
-		image: "https://picsum.photos/id/10/200/300",
+		image: "https://picsum.photos/200/300",
 		title: "Parque",
-		description: "Parque con lindo paisaje",
+		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elit erat, imperdiet sit amet ante ac, gravida semper lectus. Cras faucibus nulla at molestie rhoncus",
 	},
 	{
-		image: "https://picsum.photos/id/17/200/300",
-		title: "Sendero",
-		description: "Sendero con lindo paisaje",
+		image: "https://picsum.photos/200/300",
+		title: "image",
+		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elit erat, imperdiet sit amet ante ac, gravida semper lectus. Cras faucibus nulla at molestie rhoncus",
 	},
 	{
-		image: "https://picsum.photos/id/28/200/300",
-		title: "Bosque",
-		description: "Bosque con lindo paisaje",
+		image: "https://picsum.photos/200/300",
+		title: "image",
+		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elit erat, imperdiet sit amet ante ac, gravida semper lectus. Cras faucibus nulla at molestie rhoncus",
 	},
 	{
-		image: "https://picsum.photos/id/54/200/300",
-		title: "Montaña",
-		description: "Montaña con lindo paisaje",
+		image: "https://picsum.photos/200/300",
+		title: "image",
+		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam elit erat, imperdiet sit amet ante ac, gravida semper lectus. Cras faucibus nulla at molestie rhoncus",
 	}
 ];
 
